@@ -80,14 +80,14 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('assets/frontend/images/slider/20.avif') }}" class="d-block w-100" alt="...">
+                <img src="{{ asset('assets/frontend/images/slider/DJI_0429.webp') }}" class="d-block w-100" alt="...">
                 <div class="carousel-caption">
                     <h1>Sahib Farms & Resorts</h1>
                     <p>Some representative placeholder content for the second slide.</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('assets/frontend/images/slider/22.avif') }}" class="d-block w-100" alt="...">
+                <img src="{{ asset('assets/frontend/images/slider/MG1A4833.webp') }}" class="d-block w-100" alt="...">
                 <div class="carousel-caption">
                     <h1>Sahib Farms & Resorts</h1>
                     <p>Some representative placeholder content for the second slide.</p>
